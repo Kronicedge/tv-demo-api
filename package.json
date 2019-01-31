@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Kronicedge/tv-demo-api#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "monk": "^6.0.6"
   }
 }
